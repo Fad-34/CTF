@@ -1,0 +1,50 @@
+[
+  {
+    "id": "TX-0001",
+    "from": "vault-signer-03",
+    "to": "external-partner-06",
+    "amount_credits": 463460,
+    "timestamp": "2026-01-01T00:00:00Z",
+    "memo": "fee sweep"
+  },
+  {
+    "id": "TX-0002",
+    "from": "vault-signer-02",
+    "to": "external-partner-06",
+    "amount_credits": 265765,
+    "timestamp": "2026-01-02T03:11:00Z",
+    "memo": "partner payout"
+  },
+  {
+    "id": "TX-0003",
+    "from": "vault-signer-02",
+    "to": "external-partner-04",
+    "amount_credits": 147909,
+    "timestamp": "2026-01-03T06:22:00Z",
+    "memo": "liquidity transfer"
+  },
+  {
+    "id": "TX-0004",
+    "from": "vault-signer-02",
+    "to": "external-partner-05",
+    "amount_credits": 236213,
+    "timestamp": "2026-01-04T09:33:00Z",
+    "memo": "fee sweep"
+  },
+  {
+    "id": "TX-0005",
+    "from": "vault-signer-02",
+    "to": "external-partner-05",
+    "amount_credits": 122245,
+    "timestamp": "2026-01-05T12:44:00Z",
+    "memo": "fee sweep"
+  },
+  {
+    "id": "TX-0006",
+    "from": "vault-signer-01",
+    "to": "external-partner-01",
+    "amount_credits": 233371,
+    "timestamp": "2026-01-06T15:55:00Z",
+    "memo": "liquidity transfer"
+  }
+]
